@@ -10,5 +10,7 @@ This folder contains my solutions to array-based problems from LeetCode.
 | ----- | ----------- | ----------------------------- | ------ |
 | Day 1 | 1           | Two Sum                       | ✅     |
 | Day 1 | 121         | Best Time to Buy & Sell Stock | ✅     |
+| Day 2 | 167         | Two Sum II (Sorted Array)     | ✅     |
+| Day 2 | 125         | Valid Palindrome              | ✅     |
 
 ---
