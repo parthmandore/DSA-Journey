@@ -14,5 +14,7 @@ This folder contains my solutions to array-based problems from LeetCode.
 | Day 2 | 125         | Valid Palindrome              | ✅     |
 | Day 3 | 643         | Maximum Average Subarray I                        | ✅     |
 | Day 3 | 3           | Longest Substring Without Repeating Characters    | ✅     |
+| Day 4 | 724 | Find Pivot Index                  | ✅ |
+| Day 4 | 303 | Range Sum Query - Immutable       | ✅ |
 
 ---
